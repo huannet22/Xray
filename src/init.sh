@@ -1,6 +1,6 @@
 #!/bin/bash
 
-author=huanv2ray
+author=huannet22
 # github=https://github.com/233boy/xray
 
 # bash fonts colors
